@@ -45,7 +45,7 @@ A full-stack LinkedIn-style web platform that helps DJs find gigs.
 
 ### 📊 DefineAndSolveMLProblem  
 Machine learning model using the **World Happiness Report 2018** dataset to make predictions based on socioeconomic factors.  
-**Tech Stack:** Python • NumPy • Pandas • Matplotlib • Jupyter Notebook
+**Tech Stack:** Python • NumPy • Pandas • Multiple Linear Regression Models •sk-learn  • Jupyter Notebook
 
 ---
 
