@@ -1,42 +1,62 @@
-Ritesh Prabhu
-Computer Science Student at the University of Minnesota
-📧 ritpra93@gmail.com | LinkedIn
+# 👋 Hi, I'm Ritesh Prabhu
 
-About Me
-Hey! My name is Ritesh Prabhu, and I'm a current CS student at the University of Minnesota. I first started my journey by founding a CS club at my High-school to help other students like myself create and experiment with programming in different ways. Now I'm at the University of Minnesota, working on research at Group Lens for Movie Lens, working on startup work through Holmes Center of Entrepreneurship through MVP challenge, and creating new ways to help my community. I've always loved the Fintech side of things and aspire to create solutions to current problems in the space related to Data Quality, Financial Fraud detection, Scalability, or ML/AI related challenges in the space. My top 5 skills fall under doing full stack working related to React, Express.js, MongoDB, Typescript, etc. And passion for working with Python challenges related to Machine Learning through different libraries like NumPy, Pandas, Matplotlib, etc. I want to continue learning, empowering, and helping others in my community. 
+🎓 **Computer Science Student @ University of Minnesota**  
+📍 Minneapolis, MN  
+📫 Reach me: [ritpra93@gmail.com](mailto:ritpra93@gmail.com)  
+🔗 [LinkedIn](www.linkedin.com/in/ritesh-prabhu-114389299)
 
-I’m especially passionate about the FinTech space, focused on solving challenges related to data quality, financial fraud detection, scalability, and ML/AI.
+---
 
-Interests
-Full-Stack Development • ML/AI • FinTech
+## 👨‍💻 About Me
 
-Currently Learning
-Advanced full-stack development and AI/ML libraries in Python
+I'm a passionate CS student who got started by founding a computer science club in high school to help others learn programming through hands-on experimentation. Now, I'm continuing my journey at the University of Minnesota, where I:
 
-Top 5 Skills
+- Research with [GroupLens](https://grouplens.org/) on the MovieLens project  
+- Participate in startup work through the Holmes Center for Entrepreneurship's MVP Challenge  
+- Build tools to empower my community  
 
-React
+I'm especially drawn to the FinTech space—solving real-world problems in data quality, financial fraud detection, scalability, and ML/AI applications.
 
-Express.js
+---
 
-MongoDB
+## 💡 Interests
 
-TypeScript
+- Full-Stack Development  
+- Machine Learning & AI  
+- Financial Technology (FinTech)
 
-Python (for ML with NumPy, Pandas, Matplotlib, etc.)
+---
 
-Technical Skills
+## 🛠️ Technical Skills
 
-Languages/Tools: Java • Python • JavaScript • TypeScript • HTML • CSS • SQL • C++
+**Languages & Frameworks:**  
+Java • Python • JavaScript • TypeScript • C++ • SQL • HTML • CSS • Node.js • Express.js • React • Next.js • Tailwind CSS • Prisma • Docker • TensorFlow • Pandas • NumPy • Matplotlib
 
-Libraries/Frameworks: NumPy • Pandas • Matplotlib • TensorFlow • Express.js • Next.js • Node.js • Tailwind CSS • Prisma • Docker • Jupyter Notebook
+**Tools & Platforms:**  
+MongoDB • PostgreSQL • Clerk Auth • Shadcn • Jupyter Notebook • Postman • JUnit • Visual Studio Code • IntelliJ IDEA • Figma
 
-Platforms/Tools: MongoDB • PostgreSQL • Clerk Auth • Shadcn • Visual Studio Code • IntelliJ IDEA • Postman • JUnit • Figma • Swift Playgrounds
+---
 
-Featured Projects
+## 🚀 Featured Projects
 
-LOOP'D: A full-stack LinkedIn-style web app for DJs to find gigs (in development). Built using Next.js, MongoDB, TypeScript, Microsoft Azure, Tailwind CSS, Clerk, Shadcn, and a JavaScript backend.
+### 🔊 LOOP'D  
+A full-stack LinkedIn-style web platform that helps DJs find gigs.  
+**Tech Stack:** Next.js • MongoDB • TypeScript • Azure • Tailwind CSS • Clerk • Shadcn
 
-DefineAndSolveMLProblem: Machine learning project based on World Happiness Report 2018 (Chapter 2 Online Data).
+### 📊 DefineAndSolveMLProblem  
+Machine learning model using the **World Happiness Report 2018** dataset to make predictions based on socioeconomic factors.  
+**Tech Stack:** Python • NumPy • Pandas • Matplotlib • Jupyter Notebook
+
+---
+
+## 📚 Currently Learning
+
+- Advanced full-stack development with TypeScript & Next.js  
+- ML/AI libraries and model evaluation in Python
+
+---
+
+Thanks for stopping by! Feel free to reach out or check out my repositories 👇  
+
 
 
