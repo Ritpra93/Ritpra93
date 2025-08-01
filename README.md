@@ -3,7 +3,8 @@ Computer Science Student at the University of Minnesota
 📧 ritpra93@gmail.com | LinkedIn
 
 About Me
-Hey! My name is Ritesh Prabhu, and I'm a current CS student at the University of Minnesota. I started my journey by founding a CS club at my high school to help other students explore programming in creative ways. Now, I’m working on research at GroupLens for MovieLens, participating in startup work through the Holmes Center for Entrepreneurship’s MVP Challenge, and building new tools to support my community.
+Hey! My name is Ritesh Prabhu, and I'm a current CS student at the University of Minnesota. I first started my journey by founding a CS club at my High-school to help other students like myself create and experiment with programming in different ways. Now I'm at the University of Minnesota, working on research at Group Lens for Movie Lens, working on startup work through Holmes Center of Entrepreneurship through MVP challenge, and creating new ways to help my community. I've always loved the Fintech side of things and aspire to create solutions to current problems in the space related to Data Quality, Financial Fraud detection, Scalability, or ML/AI related challenges in the space. My top 5 skills fall under doing full stack working related to React, Express.js, MongoDB, Typescript, etc. And passion for working with Python challenges related to Machine Learning through different libraries like NumPy, Pandas, Matplotlib, etc. I want to continue learning, empowering, and helping others in my community. If you want to see what I'm currently working on, here's my GitHub - https://github.com/Ritpra93
+Always open to talk!
 
 I’m especially passionate about the FinTech space, focused on solving challenges related to data quality, financial fraud detection, scalability, and ML/AI.
 
