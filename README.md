@@ -12,7 +12,7 @@
 I'm a passionate CS student who got started by founding a computer science club in high school to help others learn programming through hands-on experimentation. Now, I'm continuing my journey at the University of Minnesota, where I:
 
 - Research with [GroupLens](https://grouplens.org/) on the MovieLens project  
-- Participate in startup work through the Holmes Center for Entrepreneurship's MVP Challenge  
+- Participated in startup work through the Holmes Center for Entrepreneurship's MVP Challenge (later abandoned, however)  
 - Build tools to empower my community  
 
 I'm especially drawn to the FinTech space—solving real-world problems in data quality, financial fraud detection, scalability, and ML/AI applications.
